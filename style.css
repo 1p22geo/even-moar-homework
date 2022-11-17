@@ -1,0 +1,12 @@
+#main{
+    display:flex;
+    flex-flow: row;
+    -ms-flex-align: center;
+}
+section{
+    margin:10px;
+    width:40%;
+}
+.view{
+    color:blue;
+}
